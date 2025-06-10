@@ -5,7 +5,7 @@ Hello! I'm passionate **Technical Writer** with 3 years of experience in creatin
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/about-me.png" alt="About Me Image" width="600"/>
+  <img src=https://www.pinterest.com/pin/pixel-study-gif-pixel-study-discover-share-gifs--254101603967648855/ width="600"/>
 </p>
 
 ---
