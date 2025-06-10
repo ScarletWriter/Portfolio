@@ -3,10 +3,10 @@
   
 Hello! I'm passionate **Technical Writer** with 3 years of experience in creating clear, concise and user friendly documentation. It help users to understand complex information easily.
 </p>
-
-<p align="center">
-  <img src=https://www.pinterest.com/pin/pixel-study-gif-pixel-study-discover-share-gifs--254101603967648855/ width="600"/>
+<p align=center>
+<img src=https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif width=800 height=350
 </p>
+
 
 ---
 
@@ -88,6 +88,18 @@ Hello! I'm passionate **Technical Writer** with 3 years of experience in creatin
 
 
 
+
+
+![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
+
+<p align=center>
+<img src=https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif width=600 height=300
+</p>
+
+
+
+  
+![MasterHead](https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)
 
 
 
