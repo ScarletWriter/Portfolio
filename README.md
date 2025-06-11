@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Prajakta C. Ghonmode</h1>
+<h1 align="center">👋 Hello, I’m Prajakta Ghonmode</h1>
 <p align="center"><strong>Technical Writer | Information Developer</strong>  
   
 Hello! I'm passionate **Technical Writer** with 3 years of experience in creating clear, concise and user friendly documentation. It help users to understand complex information easily.
