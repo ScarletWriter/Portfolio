@@ -98,10 +98,10 @@ End-to end documentation for products & System.
 
 ## 📞 Contact Me
 
-📧 Email: [prajakta7800@gmail.com](mailto:prajakta7800@gmail.com)  
-📍 Location: Bengaluru, India  
-📞 Phone: +91 96234 63495  
-🗣️ Languages: English, Hindi, Marathi (Read, Write, Speak)
+ **Email:** [prajakta7800@gmail.com](mailto:prajakta7800@gmail.com)  
+ **Location:** Bengaluru, India  
+ **Phone:** +91 96234 63495  
+ **Languages:** English, Hindi, Marathi (Read, Write, Speak)
 
 ---
 
@@ -111,9 +111,25 @@ End-to end documentation for products & System.
 <p align="center">✨ Let's connect and create something impactful!</p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-  <a href="mailto:prajakta7800@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <!-- GitHub -->
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:prajakta7800@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Phone (Note: only displays, doesn't call) -->
+  <a href="tel:+919999999999" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
 </p>
 
 
