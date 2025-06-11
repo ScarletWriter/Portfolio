@@ -71,29 +71,28 @@ End-to end documentation for products & System.
 
 ## 📝 Documentation Specialties
 
-- 📖 Quick Start Guides  
-- 📘 User Manuals  
-- 🛠 Troubleshooting Guides  
-- 📡 API Documentation  
-- 🧾 Release Notes  
+-  **Quick Start Guides**  
+-  **User Manuals**  
+-  **Troubleshooting Guides**  
+-  **API Documentation**  
+-  **Release Notes**  
 
 ---
 
 ## 🗂️ What I Do
 
-- 🔍 Analyze, plan, and research technical topics  
-- 🤝 Collaborate with **SMEs**, developers, testers, and product managers  
-- 📝 Create structured, accurate technical documents  
-- 📌 Maintain version control, accuracy, and timely updates  
-- 📈 Align documentation with **DDLC**, **SDLC**, and **Agile** methodologies  
+1. Excellent in **Planning, Analysis,Research.**
+2. Collaborate with **SMEs, developers, testers, and product managers** to gather technical inputs.
+3. Create Technical document for product or system.
+4. Ensure technical accuracy, document versioning, and timely releases aligned with product updates.
+5. Align documentation activities with **DDLC, SDLC, and Agile Methologies.**
 
 ---
 
 ## 💡 Strengths
 
-🌟 Efficient multitasker under tight deadlines  
-🌟 Adaptive, collaborative, and a quick learner  
-🌟 Detail-oriented with a user-first mindset  
+- Proficient at managing multiple project and tight deadlines.
+- Quick learner, adaptive, and collaborative.
 
 ---
 
@@ -106,9 +105,6 @@ End-to end documentation for products & System.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/contact.png" alt="Contact Banner" width="700"/>
-</p>
 
 <p align="center"><em>🙏 Thank you for visiting my portfolio! This is all about me — a technical writer who blends precision, clarity, and creativity in every document I create.</em></p>
 
@@ -125,16 +121,11 @@ End-to end documentation for products & System.
 
 
 
-![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
-
-<p align=center>
-<img src=https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif width=600 height=300
-</p>
 
 
 
   
-![MasterHead](https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif)
+
 
 
 
